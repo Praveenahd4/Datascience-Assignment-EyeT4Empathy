@@ -4,6 +4,6 @@ The project's foundation is the prediction of empathy levels using visual data a
 * Datasets: [EyeT4Empathy dataset](https://figshare.com/articles/dataset/Eye_Tracker_Data/19729636/2) - 60 participants' 502 files and their recordings.
     <br />  [Questionnaries](https://figshare.com/articles/dataset/Questionnaires/19657323/2) - The empathy scores we're anticipating are there in this data.
 
-[Data Exploration.ipynb]() - used a single participant's trail file to investigate the data, preprocess it, and visualise it using several graph plots for a better understanding.
+[Data Exploration.ipynb](https://github.com/Praveenahd4/Datascience-Assignment-EyeT4Empathy/blob/main/Data%20Exploration.ipynb) - used a single participant's trail file to investigate the data, preprocess it, and visualise it using several graph plots for a better understanding.
 <br/>[Empathy.ipynb](https://github.com/Praveenahd4/Datascience-Assignment-EyeT4Empathy/blob/main/Empathy.ipynb) - Detailed code execution for this project is in this Jupyter Notebook, which includes Data Understanding, Data Preprocessing, Feature Selection, Model Training, and Model Evaluation. 
 <br/>[main code.py](https://github.com/Praveenahd4/Datascience-Assignment-EyeT4Empathy/blob/main/main%20code.py) - The most accurate model, which uses all the files for Data Preprocessing, Feature Selection, Model Training, and Model Evaluation, is coded in a Python file. 
